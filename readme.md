@@ -29,9 +29,8 @@ Tasker je placený a můžete si ho koupit v Play
 (https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm),
 nebo zdarma vyzkoušet (http://tasker.dinglisch.net/download.html).
 
-Teoreticky by šlo vytvořit samostatnou spustitelnou aplikaci pomocí nástroje
-Tasker App Factory, prakticky se mi to ale nikdy nepovedlo. Pokud někdo víte
-jak na to, budu rád, když mi dáte vědět.
+Případně pokud o to bude nějaký zájem, můžu ze scriptu vytvořit samostatnou
+aplikaci, použitelnou i bez programu Tasker.
 
 
 
