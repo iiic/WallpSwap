@@ -78,8 +78,7 @@ Nakonec se script spustí metodou run:
 
 	linkSwap.run();
 
-### příklad XML souboru projektu vyexportovaného programem Tasker
-je v souboru `WallpSwap.prj.xml` ###
+### příklad XML souboru projektu vyexportovaného programem Tasker je v souboru `WallpSwap.prj.xml` ###
 
 
 
@@ -112,6 +111,6 @@ Celý sctipt je vydán pod licencí Creative Commons verze 3.0 BY
 [CC BY] (http://creativecommons.org/licenses/by/3.0/cz/)
 
 Budu rád, když v souladu s licencí zachováte úvodní víceřádkový komentář
-v javascript souboru ( `jquery.copywithq.js` )
+v javascript souboru ( `wallpswap.js` )
 
 ic
